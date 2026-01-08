@@ -16,16 +16,16 @@ This repository is a template for an [F-Droid](https://f-droid.org) repo using G
 
 1. At first, you should [install the F-Droid app](https://f-droid.org/), it's an alternative app store for Android.
 
-2. Now you can copy the following link: https://raw.githubusercontent.com/LyzardKing/fdroid/main/fdroid/repo?fingerprint=FINGERPRINT, then add this repository to your F-Droid client:
+2. Now you can copy the following link, then add it as a repository to your F-Droid client:
    
    ```
-   https://raw.githubusercontent.com/LyzardKing/fdroid/main/fdroid/repo?fingerprint=FINGERPRINT
+   https://raw.githubusercontent.com/LyzardKing/fdroid/main/fdroid/repo?fingerprint=8B00155B0863F6F4FDD2A6032D3E74E99B6FE2DB0F066B84087417E110F75189
    ```
    
     Alternatively, you can also scan the QR code:
    
    <p align="center">
-      <img src=".github/qrcode.gif?raw=true" alt="F-Droid repo QR code"/>
+      <img src="./qr-code.png?raw=true" alt="F-Droid repo QR code"/>
     </p>
 
 3. Open the link in F-Droid. It will ask you to add the repository. Everything should already be filled in correctly, so just press "OK".
