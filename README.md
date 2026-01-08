@@ -20,12 +20,6 @@ This repository is a template for an [F-Droid](https://f-droid.org) repo using G
    https://raw.githubusercontent.com/LyzardKing/fdroid/main/fdroid/repo?fingerprint=8B00155B0863F6F4FDD2A6032D3E74E99B6FE2DB0F066B84087417E110F75189
    ```
    
-    Alternatively, you can also scan the QR code:
-   
-   <p align="center">
-      <img src="./qr-code.png?raw=true" alt="F-Droid repo QR code"/>
-    </p>
-
 3. Open the link in F-Droid. It will ask you to add the repository. Everything should already be filled in correctly, so just press "OK".
 
 4. You can now install my apps, e.g. start by searching for your app in the F-Droid client.
