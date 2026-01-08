@@ -1,1 +1,16 @@
-{"repo": {"timestamp": 1767912795000, "version": 20002, "name": "Galileo's F-Droid Repository", "icon": "icon.png", "address": "https://github.com/LyzardKing/fdroid/repo", "description": "This is a repository of apps to be used with F-Droid. Applications in this repository are official binaries built by the original application developers."}, "requests": {"install": [], "uninstall": []}, "apps": [], "packages": {}}
+{
+  "repo": {
+    "timestamp": 1767913079000,
+    "version": 20002,
+    "name": "Galileo's F-Droid Repository",
+    "icon": "icon.png",
+    "address": "https://github.com/LyzardKing/fdroid/repo",
+    "description": "This is a repository of apps to be used with F-Droid. Applications in this repository are official binaries built by the original application developers."
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [],
+  "packages": {}
+}

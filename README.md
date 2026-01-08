@@ -6,10 +6,8 @@ This repository is a template for an [F-Droid](https://f-droid.org) repo using G
 ### Apps
 
 <!-- This table is auto-generated. Do not edit -->
-
 | Icon | Name | Description | Version |
-| ---- | ---- | ----------- | ------- |
-
+| --- | --- | --- | --- |
 <!-- end apps table -->
 
 ### How to use
