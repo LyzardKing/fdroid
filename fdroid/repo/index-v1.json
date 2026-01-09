@@ -1,10 +1,10 @@
 {
   "repo": {
-    "timestamp": 1767948103000,
+    "timestamp": 1767955548000,
     "version": 20002,
     "name": "Galileo's F-Droid Repository",
     "icon": "icon.png",
-    "address": "https://github.com/LyzardKing/fdroid/repo",
+    "address": "https://raw.githubusercontent.com/LyzardKing/fdroid/refs/heads/main/fdroid/repo",
     "description": "This is a repository of apps to be used with F-Droid. Applications in this repository are official binaries built by the original application developers."
   },
   "requests": {

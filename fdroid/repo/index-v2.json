@@ -9,12 +9,12 @@
     "icon": {
       "en-US": {
         "name": "/icons/icon.png",
-        "sha256": "69333267009fdbcfbab46f46f5c957a8f1f84be5b2375c876d207b995af55df0",
-        "size": 671
+        "sha256": "a040df30faee90b82848b3bcece7f7ffd4a2b93ede74111e6d770865170044fb",
+        "size": 975
       }
     },
-    "address": "https://github.com/LyzardKing/fdroid/repo",
-    "timestamp": 1767948103000,
+    "address": "https://raw.githubusercontent.com/LyzardKing/fdroid/refs/heads/main/fdroid/repo",
+    "timestamp": 1767955548000,
     "categories": {
       "Reading": {
         "name": {
