@@ -1,0 +1,14 @@
+{
+  "repo": {
+    "timestamp": 1768016900000
+  },
+  "packages": {
+    "com.example.calibreboxnew": {
+      "versions": {
+        "3190491a98daab7d47485c2ba65f8a5d689fce00faecea036a1ced7d3fbffa97": {
+          "releaseChannels": null
+        }
+      }
+    }
+  }
+}
