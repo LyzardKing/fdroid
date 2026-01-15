@@ -1,8 +1,8 @@
 AuthorName: LyzardKing
 Categories:
     - Reading
-CurrentVersion: 1.0.1
-CurrentVersionCode: 10001
+CurrentVersion: 1.2.3
+CurrentVersionCode: 10002
 Description: |
     CalibreBoxNew is an Android application that reads and manages a Calibre e-book library hosted on Dropbox. The project includes a Makefile wrapper for common build, copy, install and run tasks and uses the Gradle wrapper to build the Android app.
 

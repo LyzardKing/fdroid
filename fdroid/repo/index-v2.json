@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/LyzardKing/fdroid/refs/heads/main/fdroid/repo",
-    "timestamp": 1768484589000,
+    "timestamp": 1768484861000,
     "categories": {
       "Reading": {
         "name": {
@@ -30,7 +30,7 @@
         "categories": [
           "Reading"
         ],
-        "lastUpdated": 1768484219000,
+        "lastUpdated": 1768484856000,
         "license": "MIT",
         "sourceCode": "https://github.com/LyzardKing/CalibreBoxNew",
         "authorName": "LyzardKing",
@@ -160,6 +160,53 @@
             "signer": {
               "sha256": [
                 "98da19c1e9e3d558c8e501cec68bc92a36d4c28e2731ea0cda78bf1017971214"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "com.example.calibreboxnew.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "e2aaa1feaf3b1e61e46c411037bd8429fe8c0f57bf36afdd4a1a5767a917689d": {
+          "added": 1768484856000,
+          "file": {
+            "name": "/calibreboxnew_v1.2.3.apk",
+            "sha256": "e2aaa1feaf3b1e61e46c411037bd8429fe8c0f57bf36afdd4a1a5767a917689d",
+            "size": 2099650
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "1.2.3",
+            "versionCode": 10002,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "ad0767f404e9196a9aa84d523050407ffed77acb6ef4d87d48e101364173ca2e"
               ]
             },
             "usesPermission": [

@@ -8,7 +8,7 @@ This repository is a template for an [F-Droid](https://f-droid.org) repo using G
 <!-- This table is auto-generated. Do not edit -->
 | Icon | Name | Description | Version |
 | --- | --- | --- | --- |
-| <a href="https://github.com/LyzardKing/CalibreBoxNew"><img src="fdroid/repo/icons/" alt="CalibreBoxNew icon" width="36px" height="36px"></a> | [**CalibreBoxNew**](https://github.com/LyzardKing/CalibreBoxNew) |  | 1.0.1 (10001) |
+| <a href="https://github.com/LyzardKing/CalibreBoxNew"><img src="fdroid/repo/icons/" alt="CalibreBoxNew icon" width="36px" height="36px"></a> | [**CalibreBoxNew**](https://github.com/LyzardKing/CalibreBoxNew) |  | 1.2.3 (10002) |
 <!-- end apps table -->
 
 ### How to use

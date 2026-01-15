@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1768484589000,
+    "timestamp": 1768484861000,
     "version": 20002,
     "name": "Galileo's F-Droid Repository",
     "icon": "icon.png",
@@ -17,15 +17,15 @@
       "categories": [
         "Reading"
       ],
-      "suggestedVersionName": "1.0.1",
-      "suggestedVersionCode": "10001",
+      "suggestedVersionName": "1.2.3",
+      "suggestedVersionCode": "10002",
       "description": "CalibreBoxNew is an Android application that reads and manages a Calibre e-book library hosted on Dropbox. The project includes a Makefile wrapper for common build, copy, install and run tasks and uses the Gradle wrapper to build the Android app.\n\n<p>Functionality<p>\n\n- Browse and search books\n- Download books to local storage\n- Share books directly from the app\n- Send books to Kobo (via the Dropbox integration)\n- Add additional libraries\n",
       "license": "MIT",
       "name": "CalibreBoxNew",
       "sourceCode": "https://github.com/LyzardKing/CalibreBoxNew",
       "added": 1767948099000,
       "packageName": "com.example.calibreboxnew",
-      "lastUpdated": 1768484219000
+      "lastUpdated": 1768484856000
     }
   ],
   "packages": {
@@ -167,6 +167,52 @@
         ],
         "versionCode": 1,
         "versionName": "1.0"
+      },
+      {
+        "added": 1768484856000,
+        "apkName": "calibreboxnew_v1.2.3.apk",
+        "hash": "e2aaa1feaf3b1e61e46c411037bd8429fe8c0f57bf36afdd4a1a5767a917689d",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.example.calibreboxnew",
+        "sig": "1a41c323de40163f719d0e4be4087291",
+        "signer": "ad0767f404e9196a9aa84d523050407ffed77acb6ef4d87d48e101364173ca2e",
+        "size": 2099650,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "com.example.calibreboxnew.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 10002,
+        "versionName": "1.2.3"
       },
       {
         "added": 1768484219000,
