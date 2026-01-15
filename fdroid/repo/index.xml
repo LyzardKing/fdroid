@@ -55,43 +55,4 @@
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
 		</package>
 	</application>
-	<application id="com.example.calibreboxnew2">
-		<id>com.example.calibreboxnew2</id>
-		<added>2026-01-15</added>
-		<lastupdated>2026-01-15</lastupdated>
-		<name>CalibreBoxNew</name>
-		<summary></summary>
-		<desc>CalibreBoxNew is an Android application that reads and manages a Calibre e-book library hosted on Dropbox. The project includes a Makefile wrapper for common build, copy, install and run tasks and uses the Gradle wrapper to build the Android app.
-
-&lt;p&gt;Functionality&lt;p&gt;
-
-- Browse and search books
-- Download books to local storage
-- Share books directly from the app
-- Send books to Kobo (via the Dropbox integration)
-- Add additional libraries
-</desc>
-		<license>MIT</license>
-		<categories>Reading</categories>
-		<category>Reading</category>
-		<web></web>
-		<source>https://github.com/LyzardKing/CalibreBoxNew</source>
-		<tracker></tracker>
-		<author>LyzardKing</author>
-		<marketversion>1.1.0</marketversion>
-		<marketvercode>2</marketvercode>
-		<package>
-			<version>1.1.0</version>
-			<versioncode>2</versioncode>
-			<apkname>calibreboxnew_v1.2.0.apk</apkname>
-			<hash type="sha256">437047bf593768e1844b7323b9f8a7b9af0fb49012d5c9bc22f7962575f524db</hash>
-			<size>2099650</size>
-			<sdkver>26</sdkver>
-			<targetSdkVersion>36</targetSdkVersion>
-			<added>2026-01-15</added>
-			<sig>d8bf39cf11fa4a764c2a91955a04f35a</sig>
-			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,com.example.calibreboxnew2.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
-		</package>
-	</application>
 </fdroid>
