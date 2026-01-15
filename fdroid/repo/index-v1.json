@@ -26,21 +26,6 @@
       "added": 1767948099000,
       "packageName": "com.example.calibreboxnew",
       "lastUpdated": 1768484219000
-    },
-    {
-      "authorName": "LyzardKing",
-      "categories": [
-        "Reading"
-      ],
-      "suggestedVersionName": "1.1.0",
-      "suggestedVersionCode": "2",
-      "description": "CalibreBoxNew is an Android application that reads and manages a Calibre e-book library hosted on Dropbox. The project includes a Makefile wrapper for common build, copy, install and run tasks and uses the Gradle wrapper to build the Android app.\n\n<p>Functionality<p>\n\n- Browse and search books\n- Download books to local storage\n- Share books directly from the app\n- Send books to Kobo (via the Dropbox integration)\n- Add additional libraries\n",
-      "license": "MIT",
-      "name": "CalibreBoxNew",
-      "sourceCode": "https://github.com/LyzardKing/CalibreBoxNew",
-      "added": 1768483951000,
-      "packageName": "com.example.calibreboxnew2",
-      "lastUpdated": 1768483951000
     }
   ],
   "packages": {
@@ -228,100 +213,6 @@
         ],
         "versionCode": 3,
         "versionName": "1.2.2"
-      }
-    ],
-    "com.example.calibreboxnew2": [
-      {
-        "added": 1768483951000,
-        "apkName": "calibreboxnew_v1.2.1.apk",
-        "hash": "7dc7a89c3805bd6200ee469dd4f42993436168830dfc16cc3d683102caa52a7d",
-        "hashType": "sha256",
-        "minSdkVersion": 26,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86",
-          "x86_64"
-        ],
-        "packageName": "com.example.calibreboxnew2",
-        "sig": "7c9a689ce1f128291ba3b51dd8571ce9",
-        "signer": "20a0f78ef860f85b0ad384122d74d0a4c5952987ce0bb25ccf7a9c3f536cbf0e",
-        "size": 2099654,
-        "targetSdkVersion": 36,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ],
-          [
-            "com.example.calibreboxnew2.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
-            null
-          ]
-        ],
-        "versionCode": 2,
-        "versionName": "1.2.1"
-      },
-      {
-        "added": 1768483951000,
-        "apkName": "calibreboxnew_v1.2.0.apk",
-        "hash": "437047bf593768e1844b7323b9f8a7b9af0fb49012d5c9bc22f7962575f524db",
-        "hashType": "sha256",
-        "minSdkVersion": 26,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86",
-          "x86_64"
-        ],
-        "packageName": "com.example.calibreboxnew2",
-        "sig": "d8bf39cf11fa4a764c2a91955a04f35a",
-        "signer": "86de6023d9d32678c2244c14edd969c55d9009a483f1fc0cff64467fb72ea5a1",
-        "size": 2099650,
-        "targetSdkVersion": 36,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ],
-          [
-            "com.example.calibreboxnew2.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
-            null
-          ]
-        ],
-        "versionCode": 2,
-        "versionName": "1.1.0"
       }
     ]
   }
