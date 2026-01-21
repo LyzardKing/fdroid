@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1768967967000,
+    "timestamp": 1768989423000,
     "version": 20002,
     "name": "Galileo's F-Droid Repository",
     "icon": "icon.png",
@@ -12,6 +12,21 @@
     "uninstall": []
   },
   "apps": [
+    {
+      "authorName": "LyzardKing",
+      "categories": [
+        "Reading"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "1",
+      "description": "BibMan is an Android application for managing bibliographic references. It allows users to organize, search, and import references in various formats, making it easier for researchers and students to handle their bibliographies on the go.\n\n<p>Features<p>\n\n- Access your bibliographic references on Android\n- Search and filter references\n- Import citations from multiple sources\n- Sync with cloud storage services (Dropbox)\n",
+      "license": "MIT",
+      "name": "BibMan",
+      "sourceCode": "https://github.com/LyzardKing/BibMan",
+      "added": 1768989417000,
+      "packageName": "com.example.bibman",
+      "lastUpdated": 1768989417000
+    },
     {
       "authorName": "LyzardKing",
       "categories": [
@@ -29,6 +44,58 @@
     }
   ],
   "packages": {
+    "com.example.bibman": [
+      {
+        "added": 1768989417000,
+        "apkName": "bibman_0.0.1.apk",
+        "hash": "ae83f0c2594bb3e075adac62af1eba5a662180a24841ad91027f4e38c7664747",
+        "hashType": "sha256",
+        "minSdkVersion": 29,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.example.bibman",
+        "sig": "0e22bf407947651809c0bfdb870fbbb0",
+        "signer": "cd9e2d2ba838e2b03a303a3544bdbadc006916d53096706abfecaa4705592a7f",
+        "size": 3521206,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "com.example.bibman.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 1,
+        "versionName": "0.0.1"
+      }
+    ],
     "com.example.calibreboxnew": [
       {
         "added": 1768016896000,

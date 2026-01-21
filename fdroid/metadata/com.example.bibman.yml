@@ -1,0 +1,20 @@
+AuthorName: LyzardKing
+Categories:
+    - Reading
+CurrentVersion: 0.0.1
+CurrentVersionCode: 1
+Description: |
+    BibMan is an Android application for managing bibliographic references. It allows users to organize, search, and import references in various formats, making it easier for researchers and students to handle their bibliographies on the go.
+
+    <p>Features<p>
+
+    - Access your bibliographic references on Android
+    - Search and filter references
+    - Import citations from multiple sources
+    - Sync with cloud storage services (Dropbox)
+IssueTracker: ""
+License: MIT
+Name: BibMan
+SourceCode: https://github.com/LyzardKing/BibMan
+Summary: ""
+WebSite: ""

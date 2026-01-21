@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/LyzardKing/fdroid/refs/heads/main/fdroid/repo",
-    "timestamp": 1768967967000,
+    "timestamp": 1768989423000,
     "categories": {
       "Reading": {
         "name": {
@@ -24,6 +24,77 @@
     }
   },
   "packages": {
+    "com.example.bibman": {
+      "metadata": {
+        "added": 1768989417000,
+        "categories": [
+          "Reading"
+        ],
+        "lastUpdated": 1768989417000,
+        "license": "MIT",
+        "sourceCode": "https://github.com/LyzardKing/BibMan",
+        "authorName": "LyzardKing",
+        "name": {
+          "en-US": "BibMan"
+        },
+        "description": {
+          "en-US": "BibMan is an Android application for managing bibliographic references. It allows users to organize, search, and import references in various formats, making it easier for researchers and students to handle their bibliographies on the go.\n\n<p>Features<p>\n\n- Access your bibliographic references on Android\n- Search and filter references\n- Import citations from multiple sources\n- Sync with cloud storage services (Dropbox)\n"
+        },
+        "preferredSigner": "cd9e2d2ba838e2b03a303a3544bdbadc006916d53096706abfecaa4705592a7f"
+      },
+      "versions": {
+        "ae83f0c2594bb3e075adac62af1eba5a662180a24841ad91027f4e38c7664747": {
+          "added": 1768989417000,
+          "file": {
+            "name": "/bibman_0.0.1.apk",
+            "sha256": "ae83f0c2594bb3e075adac62af1eba5a662180a24841ad91027f4e38c7664747",
+            "size": 3521206
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "0.0.1",
+            "versionCode": 1,
+            "usesSdk": {
+              "minSdkVersion": 29,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "cd9e2d2ba838e2b03a303a3544bdbadc006916d53096706abfecaa4705592a7f"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "com.example.bibman.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    },
     "com.example.calibreboxnew": {
       "metadata": {
         "added": 1767948099000,

@@ -1,0 +1,26 @@
+{
+  "repo": {
+    "timestamp": 1768989423000,
+    "categories": {
+      "fdroid": null
+    }
+  },
+  "packages": {
+    "com.example.bibman": {
+      "metadata": {
+        "categories": [
+          "Reading"
+        ],
+        "license": "MIT",
+        "sourceCode": "https://github.com/LyzardKing/BibMan",
+        "authorName": "LyzardKing",
+        "name": {
+          "en-US": "BibMan"
+        },
+        "description": {
+          "en-US": "BibMan is an Android application for managing bibliographic references. It allows users to organize, search, and import references in various formats, making it easier for researchers and students to handle their bibliographies on the go.\n\n<p>Features<p>\n\n- Access your bibliographic references on Android\n- Search and filter references\n- Import citations from multiple sources\n- Sync with cloud storage services (Dropbox)\n"
+        }
+      }
+    }
+  }
+}
