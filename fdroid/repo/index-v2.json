@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/LyzardKing/fdroid/refs/heads/main/fdroid/repo",
-    "timestamp": 1793040464000,
+    "timestamp": 1793102557000,
     "categories": {
       "Reading": {
         "name": {
@@ -101,7 +101,7 @@
         "categories": [
           "Reading"
         ],
-        "lastUpdated": 1793040461000,
+        "lastUpdated": 1793102553000,
         "license": "MIT",
         "sourceCode": "https://github.com/LyzardKing/CalibreBoxNew",
         "authorName": "LyzardKing",
@@ -157,6 +157,61 @@
               },
               {
                 "name": "com.example.calibreboxnew.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "e6f1ab5f6394ce6d10042a04514c370e8922651e90eb4565b304e07b4142c3f3": {
+          "added": 1793102553000,
+          "file": {
+            "name": "/calibreboxnew_v1.3.2.apk",
+            "sha256": "e6f1ab5f6394ce6d10042a04514c370e8922651e90eb4565b304e07b4142c3f3",
+            "size": 2122085
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "1.3.2",
+            "versionCode": 10303,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "8e37ece9dd1d16b340fc6d92124256c0ff0a3c09fce14446cf4b1c1de804a673"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+                "maxSdkVersion": 28
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "com.example.calibreboxnew.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE",
+                "maxSdkVersion": 28
               }
             ]
           }

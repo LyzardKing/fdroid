@@ -9,7 +9,7 @@ This repository is a template for an [F-Droid](https://f-droid.org) repo using G
 | Icon | Name | Description | Version |
 | --- | --- | --- | --- |
 | <a href="https://github.com/LyzardKing/BibMan"><img src="fdroid/repo/icons/" alt="BibMan icon" width="36px" height="36px"></a> | [**BibMan**](https://github.com/LyzardKing/BibMan) |  | 0.0.1 (1) |
-| <a href="https://github.com/LyzardKing/CalibreBoxNew"><img src="fdroid/repo/icons/" alt="CalibreBoxNew icon" width="36px" height="36px"></a> | [**CalibreBoxNew**](https://github.com/LyzardKing/CalibreBoxNew) |  | 1.3.1 (10301) |
+| <a href="https://github.com/LyzardKing/CalibreBoxNew"><img src="fdroid/repo/icons/" alt="CalibreBoxNew icon" width="36px" height="36px"></a> | [**CalibreBoxNew**](https://github.com/LyzardKing/CalibreBoxNew) |  | 1.3.2 (10303) |
 <!-- end apps table -->
 
 ### How to use
