@@ -32,3 +32,21 @@ bibman:
     - Sync with cloud storage services (Dropbox)
   categories:
     - Reading
+
+kalibrebox:
+  git: https://github.com/LyzardKing/KalibreBox
+  name: "KalibreBox"
+  description: |
+    KalibreBox is an Android application that reads and manages a Calibre e-book library hosted on Dropbox.
+    It can also access OPDS catalogs.
+
+    <p>Functionality<p>
+
+    - Browse and search books
+    - Download books to local storage
+    - Share books directly from the app
+    - Send books to Kobo (via the Dropbox integration)
+    - Add additional libraries from Dropbox or OPDS catalogs
+
+  categories:
+    - Reading
