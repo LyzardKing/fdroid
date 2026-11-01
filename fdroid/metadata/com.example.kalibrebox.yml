@@ -1,0 +1,21 @@
+AuthorName: LyzardKing
+Categories:
+    - Reading
+CurrentVersion: 1.3.2
+CurrentVersionCode: 10303
+Description: |
+    KalibreBox is an Android application that reads and manages a Calibre e-book library hosted on Dropbox.
+    It can also access OPDS catalogs.
+
+    <p>Functionality<p>
+
+    - Browse and search books
+    - Download books to local storage
+    - Share books directly from the app
+    - Add additional libraries from Dropbox or OPDS catalogs
+IssueTracker: ""
+License: MIT
+Name: KalibreBox
+SourceCode: https://github.com/LyzardKing/KalibreBox
+Summary: ""
+WebSite: ""
