@@ -1,0 +1,23 @@
+{
+  "repo": {
+    "timestamp": 1793536961000,
+    "categories": {
+      "fdroid": null
+    }
+  },
+  "packages": {
+    "org.lyzardking.kalibrebox": {
+      "metadata": {
+        "categories": [
+          "Reading"
+        ],
+        "license": "MIT",
+        "sourceCode": "https://github.com/LyzardKing/KalibreBox",
+        "authorName": "LyzardKing",
+        "description": {
+          "en-US": "KalibreBox is an Android application that reads and manages a Calibre e-book library hosted on Dropbox.\nIt can also access OPDS catalogs.\n\n<p>Functionality<p>\n\n- Browse and search books\n- Download books to local storage\n- Share books directly from the app\n- Send books to Kobo (via the Dropbox integration)\n- Add additional libraries from Dropbox or OPDS catalogs\n"
+        }
+      }
+    }
+  }
+}

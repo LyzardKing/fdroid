@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/LyzardKing/fdroid/refs/heads/main/fdroid/repo",
-    "timestamp": 1793535171000,
+    "timestamp": 1793536961000,
     "categories": {
       "Reading": {
         "name": {
@@ -510,6 +510,67 @@
               },
               {
                 "name": "com.example.calibreboxnew.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "org.lyzardking.kalibrebox": {
+      "metadata": {
+        "added": 1793536956000,
+        "categories": [
+          "Reading"
+        ],
+        "lastUpdated": 1793536956000,
+        "license": "MIT",
+        "sourceCode": "https://github.com/LyzardKing/KalibreBox",
+        "authorName": "LyzardKing",
+        "name": {
+          "en-US": "KalibreBox"
+        },
+        "description": {
+          "en-US": "KalibreBox is an Android application that reads and manages a Calibre e-book library hosted on Dropbox.\nIt can also access OPDS catalogs.\n\n<p>Functionality<p>\n\n- Browse and search books\n- Download books to local storage\n- Share books directly from the app\n- Send books to Kobo (via the Dropbox integration)\n- Add additional libraries from Dropbox or OPDS catalogs\n"
+        },
+        "preferredSigner": "9a52743ca86e8e28c1e04f76ce339073111fb6d544a69895934ceda004adf812"
+      },
+      "versions": {
+        "ed9baa4000452965c60dbe60e2928c3a9e4e54115e2873f4beb4e154b9459984": {
+          "added": 1793536956000,
+          "file": {
+            "name": "/kalibrebox_v0.1.2.apk",
+            "sha256": "ed9baa4000452965c60dbe60e2928c3a9e4e54115e2873f4beb4e154b9459984",
+            "size": 70886316
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "0.1.2",
+            "versionCode": 102,
+            "usesSdk": {
+              "minSdkVersion": 28,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "9a52743ca86e8e28c1e04f76ce339073111fb6d544a69895934ceda004adf812"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+                "maxSdkVersion": 28
+              },
+              {
+                "name": "org.lyzardking.kalibrebox.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE",
+                "maxSdkVersion": 28
               }
             ]
           }
